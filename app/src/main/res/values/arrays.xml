@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="portName">
+        <item>dev/ttyS0</item>
+        <item>dev/ttyS1</item>
+        <item>dev/ttyS2</item>
+        <item>dev/ttyS3</item>
+        <item>dev/ttyACM5 (Virtual COM PD)</item>
+        <item>dev/ttyACM6 (Virtual COM PP)</item>
+        <item>dev/ttyACM7</item>
+        <item>dev/ttyUSB0 (COM2)</item>
+        <item>dev/ttyUSB1 (COM3)</item>
+        <item>dev/ttyUSB2</item>
+        <item>dev/ttyUSB3</item>
+        <item>USB (Vendor Class)</item>
+    </array>
+</resources>
